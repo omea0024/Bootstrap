@@ -1,0 +1,70 @@
+html {
+    font-size: 16px;
+    line-height: 1.6;
+    font-family: helvetica, arial, sans-serif;
+}
+
+html,
+body {
+    background-color: #B8B8CC;
+}
+
+nav {
+    background-image: none;
+}
+
+h1,h2, h3 {
+    font-family: Manuale, 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    padding: 1rem 2rem; 
+    color: white;  
+    padding-left: 5px;
+}
+
+.jumbotron {
+    background-color: #B8CCB8;
+}
+
+#map {
+    height: 400px;
+    width: 100%;
+}
+
+header{
+    border-bottom: solid #B3B5B5;
+    background-color: #C2C0AE;
+    color: black;
+}
+
+.card {
+    background-color: #B8CCB8;
+    padding: 5px;
+    margin: 5px;
+    color: white;    
+}
+
+form {
+    margin: 10px;
+}
+
+form > button {
+    margin-bottom: 10px;
+}
+
+footer{
+    background-color:#B3B5B5;
+    padding: none;
+}
+
+footer > p {
+    padding: 2px;
+}
+
+ul {
+    list-style-position: inside;
+    padding-left:0;
+}
+ul > li {
+    list-style: none;
+    display: inline;
+}
+
